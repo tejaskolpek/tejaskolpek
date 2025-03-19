@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Tejas Kolpek!  
+# 👋 Hey there, I'm Tej Kolpek!  
 
 🚀 **Data and Cloud Engineer | Data Scientist | Security Enthusiast | Cinematographer | Speed Junkie | Hip-Hop Head | Fitness Freak**
 
