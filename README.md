@@ -25,7 +25,6 @@ When I'm not immersed in tech, you'll catch me vibing to old-school hip-hop 🎤
 🔹 **Big Data & Analytics:** Hadoop, Spark, Snowflake, Redshift, BigQuery, Databricks  
 🔹 **BI & Visualization:** Power BI, Tableau, Looker  
 🔹 **DevOps & Security:** CI/CD, Docker, Kubernetes, CloudTrail, GuardDuty, IAM, Splunk
-
 🔹 **Frameworks & Tools:** TensorFlow, Scikit-Learn, Flask, Airflow, Kafka  
 
 ---
