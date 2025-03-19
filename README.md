@@ -31,8 +31,6 @@ When I'm not immersed in tech, you'll catch me vibing to old-school hip-hop 🎤
 
 ## 🏆 Certifications
 
-## 🏆 Certifications
-
 - **[AWS Certified Solutions Architect – Associate (SAA-C03)](https://www.credly.com/badges/ac2ce3b6-9263-4c8e-86f1-6ab79b7bb21d)**
 - **[AWS Certified Cloud Practitioner (CLF-C02)](https://www.credly.com/badges/a6fad69d-844c-49ed-b3a2-4e2b72891cb3)**
 - **[Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/TejasKolpek-3065/C1B1F4D4276E832F)**
