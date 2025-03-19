@@ -12,7 +12,7 @@ When I'm not immersed in tech, you'll catch me vibing to old-school hip-hop 🎤
 
 - 💡 **Data Science & AI**: Training models that predict, classify, and innovate 🧠📊  
 - ☁ **Cloud Computing**: Architecting scalable and secure cloud solutions ☁🚀  
-- 🔐 **Cloud Security & Compliance** → Implementing IAM, GuardDuty, threat detection, data encryption, and governance 🛡️⚡ 🛡️⚡  
+- 🔐 **Cloud Security & Compliance**: Implementing IAM, GuardDuty, threat detection, data encryption, and governance 🛡️⚡ 🛡️⚡  
 - 📊 **Business Intelligence**: Transforming raw data into impactful insights 📈  
 - 🏗 **Big Data & Engineering**: Designing ETL pipelines that fuel analytics   
 
