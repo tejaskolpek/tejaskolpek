@@ -28,7 +28,7 @@ When I'm not immersed in tech, you'll catch me vibing to old-school hip-hop 🎤
 🔹 **Frameworks & Tools:** TensorFlow, Scikit-Learn, Flask, Airflow, Kafka  
 
 ---
-## 🏆 Certifications
+
 ## 🏆 Certifications
 
 ### 🔹 AWS Certified Solutions Architect – Associate (SAA-C03)
