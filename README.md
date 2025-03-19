@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Tejas Kolpek!  
 
-🚀 **Data Scientist | Cloud Engineer | Security Enthusiast | Cinematographer | Speed Junkie | Hip-Hop Head | Fitness Freak**
+🚀 **Data and Cloud Engineer | Data Scientist | Security Enthusiast | Cinematographer | Speed Junkie | Hip-Hop Head | Fitness Freak**
 
 Welcome to my digital playground! I'm a tech wizard by day, a storyteller by passion, and an adrenaline junkie at heart. Whether it's crunching data, deploying cloud solutions, or securing digital frontiers, I'm all about pushing limits. 
 
