@@ -32,7 +32,7 @@ When I'm not immersed in tech, you'll catch me vibing to old-school hip-hop 🎤
 ## 🏆 Certifications
 
 ### 🔹 AWS Certified Solutions Architect – Associate (SAA-C03)
-[![AWS Badge]([https://img.credly.com/images/2e2f2cf3-b4d8-4e23-9dc8-b8b6e0986711/blob.png](https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png))](https://www.credly.com/badges/ac2ce3b6-9263-4c8e-86f1-6ab79b7bb21d)
+https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png
 🔗 [View Credential](https://www.credly.com/badges/ac2ce3b6-9263-4c8e-86f1-6ab79b7bb21d)
 
 ---
