@@ -28,7 +28,17 @@ When I'm not immersed in tech, you'll catch me vibing to old-school hip-hop 🎤
 🔹 **Frameworks & Tools:** TensorFlow, Scikit-Learn, Flask, Airflow, Kafka  
 
 ---
+## 🏆 Certifications
 
+| Certification | Badge | Credential Link |
+|--------------|-------|----------------|
+| **AWS Certified Solutions Architect – Associate (SAA-C03)** | ![AWS](https://images.credly.com/size/110x110/images/2e2f2cf3-b4d8-4e23-9dc8-b8b6e0986711.png) | [🔗 View Credential](https://www.credly.com/badges/ac2ce3b6-9263-4c8e-86f1-6ab79b7bb21d) |
+| **AWS Certified Cloud Practitioner (CLF-C02)** | ![AWS Cloud Practitioner](https://images.credly.com/size/110x110/images/7b4c267e-40aa-4e66-93a4-52079bcb144d.png) | [🔗 View Credential](https://www.credly.com/badges/a6fad69d-844c-49ed-b3a2-4e2b72891cb3) |
+| **Microsoft Certified: Azure Fundamentals (AZ-900)** | ![Azure](https://images.credly.com/size/110x110/images/64489b8b-fcbb-4e75-808e-303adafa6339.png) | [🔗 View Credential](https://learn.microsoft.com/api/credentials/share/en-us/TejasKolpek-3065/C1B1F4D4276E832F) |
+| **Microsoft Certified: Azure Data Scientist Associate (DP-100)** | ![Azure Data Scientist](https://images.credly.com/size/110x110/images/18b956c0-761d-4c37-baa7-9af51e4b07cb.png) | [🔗 View Credential](https://www.credly.com/badges/18b956c0-761d-4c37-baa7-9af51e4b07cb) |
+| **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** | ![Power BI](https://images.credly.com/size/110x110/images/5b9f117b-cbe3-45a0-a916-4d007472d849.png) | [🔗 View Credential](https://www.credly.com/badges/5b9f117b-cbe3-45a0-a916-4d007472d849) |
+
+---
 ## 🌍 Let's Connect!
 
 💼 **LinkedIn:** [linkedin.com/in/tejaskolpek](https://www.linkedin.com/in/tejaskolpek/)  
